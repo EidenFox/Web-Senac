@@ -1,0 +1,25 @@
+git -v													// checa a instalação do git
+
+
+git status												// checa o status do git na pasta atual
+
+
+git init												// inicia um repositório GiT na pasta atual
+
+
+git add													// adiciona arquivos no staging preparando para a versão
+
+
+got commit  -m "<nome do comit/descrição do comit>"		// envia os arquivos carregados do staging para uma versão do repositório
+
+
+git add . 												// adiciona todos os arquivos da pasta atual no comit (recursovo)
+
+
+git diff												// checa as diferenças dos arquivos entre uma log e o atual
+
+
+git log													// checa as logs de commits
+
+
+https://developer.mozilla.org/							// Site para tirar duvidas de coisas como "HTML" e tals
